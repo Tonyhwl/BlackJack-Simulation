@@ -1,6 +1,6 @@
 # Blackjack Betting Strategy Simulation
 
-This project compares two capital allocation strategies in Blackjack — Martingale and Fixed Fractional — using Monte Carlo simulations. The analysis evaluates both strategies based on risk-adjusted returns, ruin probability, and drawdown under realistic 6-deck Blackjack conditions.
+This project compares two capital allocation strategies in Blackjack - Martingale and Fixed Fractional - using Monte Carlo simulations. The analysis evaluates both strategies based on risk-adjusted returns, ruin probability, and drawdown under realistic 6-deck Blackjack conditions.
 
 ## Overview
 
