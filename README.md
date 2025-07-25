@@ -44,7 +44,7 @@ These results confirm the inherent risk of Martingale betting. Despite occasiona
 
 - `martingale_blackjack.py`: Simulates Blackjack using Martingale betting
 - `fractional_blackjack.py`: Simulates Blackjack using Fixed Fractional betting
-- `Blackjack_Simuation_Report.pdf`: Full analysis with charts, session averages, and written conclusions
+- `Blackjack Simuation Report.pdf`: Full analysis with charts, session averages, and written conclusions
 
 
 ## Tools and Libraries Used
